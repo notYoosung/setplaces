@@ -1,9 +1,32 @@
 p5boid
 farm8 - kreep's zombie farm
 farm9 - keeps spider farm
+dock - iloveyou's place
+dock3 - pillager outpost
+dock4 - packed ice biome
+dock5 - cave spider spawners
 dock6 - keep's blaze farm
+sky4 - afk portal wither skeleton farm
+sky5 - --
+sky6 - 1jim's wither skeleton farm
+sky7 - RockVille (Geode's sky city)
+sky8 - quad end ship
+sky9 - leopard's citadel
+park3 - becky82's mob & double spawner farm
+park5 - Nacho's skelly farm
+park6 - qithron's nether waste
+road - shulker farm
+road2 shulker farm (double small end ships)
+fight - kreep's soul sand valley ghast area 
 
 
 
 Bear123_places
 farm3 - spider farm
+
+
+Bear123_lava
+dock2 - lava ocean
+sea - lava ocean w/ debris
+park - kreep's soul sand valley ghast area
+park3 - becky82's mob & double spawner 
