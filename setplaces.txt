@@ -1,4 +1,12 @@
+Bear123
+fight4 - lava
+store5 - mala's fire skull pixart
+store8 - 1jim's spider farm
+store9 - violetdemon's market
+sea4 - Andrea10's house
+
 p5boid
+area2 - harvestable desert
 farm8 - kreep's zombie farm
 farm9 - keeps spider farm
 dock - iloveyou's place
@@ -6,6 +14,7 @@ dock3 - pillager outpost
 dock4 - packed ice biome
 dock5 - cave spider spawners
 dock6 - keep's blaze farm
+dock7 - large packed ice biome
 sky4 - afk portal wither skeleton farm
 sky5 - --
 sky6 - 1jim's wither skeleton farm
@@ -13,16 +22,24 @@ sky7 - RockVille (Geode's sky city)
 sky8 - quad end ship
 sky9 - leopard's citadel
 park3 - becky82's mob & double spawner farm
+park4 - stepper's base
 park5 - Nacho's skelly farm
 park6 - qithron's nether waste
+park7 - 
 road - shulker farm
 road2 shulker farm (double small end ships)
+road4 - end dimension mining setup
+road9 - blaze/bartering farm
 fight - kreep's soul sand valley ghast area 
+fight2 - nether bulwark
+sea4 - lava
+sea5 - lava ocean (kreep, ruined portal)
 
 
 
 Bear123_places
 farm3 - spider farm
+Farm4 - pillager outposts
 
 
 Bear123_lava
@@ -30,3 +47,11 @@ dock2 - lava ocean
 sea - lava ocean w/ debris
 park - kreep's soul sand valley ghast area
 park3 - becky82's mob & double spawner 
+
+Bear123_trading
+friend6 - ReinPlayz's Forest Republic
+
+Bear123_nether
+sea - lava ocean w/ debris
+mine - blackstone, soul sand
+mine2 - soul sand valley
