@@ -1,11 +1,52 @@
 Bear123
-fight4 - lava
-store5 - mala's fire skull pixart
+otherplace - pixart ocean
+other2 - dak friend's house
+other3 - WindRose's base
+other4 - blaze farm
+other5 - 1jim's raid farm
+other6 - 6909
+other7 - Bron's house
+other8 - [[REWRITEABLE]]
+other9 - T_J's Kingdom
+park - N0VA enchanter ((REWRITABLE))
+park2 - dak's jungle houses
+park3 - woodland cabin
+park4 - dak's stronghold
+park5 - Mines4Ever's Base
+park6 - spider farm
+park7 - vvfvvh's (meghan's) house
+park8 - island with dak
+park9 - mala's cat cliff waterfall
+road - shulker farm
+road2 - Geode's bunker
+road3 - Robin's and my cave spider farm
+road4 - crystal duping setup near `road`
+road5 - old shulker farm
+road6 - wip squid farm for dak
+road7 - potential new base area
+road8 - 6803g's base (dak's sibling)
+road9 - gravel harvest biome
+store4 - meowwwww's new bunker
+store5 - Robin213's school
 store8 - 1jim's spider farm
-store9 - violetdemon's market
+store9 - MsVenus' homeboat
+sea - Robin213's M-Storage
+sky2 - becky82's village/city
 sea4 - Andrea10's house
+sea6 - Andrea10's spider farm
+sea7 - antosnite's home
+sea8 - Robin's city 3 (69 o' eight)
+sea9 - Robin's city 2
+fight3 - Sunshin2's house
+fight4 - lava ocean
+fight5 - Robin213's city
+fight8 - Nacho's camping home
+friend2 - dak's lily pad home
+friend9 - Aziroshin's farm area
+dock3 - kreep's concrete factory
 
 p5boid
+area - free flower forest biome
 area2 - harvestable desert
 farm8 - kreep's zombie farm
 farm9 - keeps spider farm
@@ -16,7 +57,7 @@ dock5 - cave spider spawners
 dock6 - keep's blaze farm
 dock7 - large packed ice biome
 sky4 - afk portal wither skeleton farm
-sky5 - --
+sky5 - T_J's island
 sky6 - 1jim's wither skeleton farm
 sky7 - RockVille (Geode's sky city)
 sky8 - quad end ship
@@ -36,6 +77,7 @@ fight - kreep's soul sand valley ghast area
 fight2 - nether bulwark
 sea4 - lava
 sea5 - lava ocean (kreep, ruined portal)
+sea6 - Andrea10's spider farm
 
 
 
@@ -51,9 +93,136 @@ park - kreep's soul sand valley ghast area
 park3 - becky82's mob & double spawner 
 
 Bear123_trading
+friend3 - lomedy and Ayo_Endo's new home
+friend4 - DiamondKelp's area
 friend6 - ReinPlayz's Forest Republic
+friend7 - Heron's and AbnormalDemigod's base
+sea4 - Andrea10's villagers
+sea8 - Robin213's village (6908)
+sea9 - 6909
+fight4 - lava ocean
+area8 - mooshroom farm near area9
+area9 - spruce tree farming & old crystal duping area 
+city4 - mesa
+city5 - sand near city4
+city6 - large mesa
+city9 - jungle village
+farm3 - meowwwww's skelly spawner
+farm4 - spider spawners
+farm5 - spider farm which robin used
+farm6 - Wolvine34's ghast 
+mine6 - cow spawner
+other7 - amethyst geode
+
+store4 - meowwwww's new bunker
+city2 - village found by Wolvine34, thorns 3
 
 Bear123_nether
 sea - lava ocean w/ debris
 mine - blackstone, soul sand
 mine2 - soul sand valley
+
+
+Herzogenberg
+dock3 - kreep's concrete factory
+farm4 - flower forest & guardian temple
+
+Rostropovich
+home - double large end ship
+dock4 - packed ice biome
+dock7 - large packed ice biome
+other3 - very close ships
+other4 - double end shipwreck
+other6 - flat end
+other8 - 5x5 chunk hole in end
+
+Havinga
+road - shulker farm
+
+tamminaylor
+
+mantissa
+
+Mstislav
+
+vanDoeselaar
+
+jarvi
+dock7 - amethyst
+mine - lava pools
+sea2 - coral
+sea3 - squid hunting
+sea4 - Andrea10's villgers
+sea5 - big sea
+sea6 - cold biomes & floating islands
+sea7 - shallow dirt biomes
+other2 - plains & gravel
+other3 - jungle
+other4 - savanna
+other5 - flower forest
+other6 - --savanna (dirt & sand)-- 6909/Arkacian
+other7 - --dark oak-- Arkacian Hotel
+other8 - new shulker farm area
+other9 - end shipwreck
+area - tagia
+city2 - end portal
+city9 - T_J's Kingdom
+mine3 - warped
+mine4 - deepslate
+mine5 - podzol near /farm-shop
+mine7 - savvana/grassy biome (dirt & sand)
+mine8 - birch & dark oak & dirt
+dock - village
+dock2 - desert village
+dock3 - kreep's concrete factory
+dock4 - plains
+dock5 - large savanna
+dock6 - village inside mountain
+dock7 - amethyst
+dock8 - village near dock6
+dock9 - desert village
+sky7 - 
+sky8 - 
+sky9 - 
+
+
+tarmo
+
+peltokoski
+
+makela
+
+Krzysztof
+
+lisiecki
+
+bernolet
+
+scirabin
+
+maalkki
+
+--------
+area
+city
+dock
+farm
+fight
+friend
+home
+mine
+otherplace/other
+park
+road
+sea
+area
+sky
+store
+
+area, city, dock, farm, fight, friend, home, mine, otherplace/other, park, road, sea, sky, store, and mount
+
+
+
+
+
+ninja_9 - jan 24
